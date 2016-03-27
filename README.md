@@ -1,3 +1,3 @@
 # SmartSensor
 
-1 acc sensor
+1 use acc sensor to get how device moves
